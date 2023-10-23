@@ -1,0 +1,11 @@
+Coefficients:,Pr(>|t|)
+product_description_lenght,***
+product_photos_qty,
+shipped_on_time,***
+delivery_time,***
+price,
+freight_value,***
+payment_type,**
+payment_installments,***
+customer_area,
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1,
